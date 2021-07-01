@@ -1,0 +1,76 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0%;
+
+}
+h1{
+    font-weight: 100;
+}
+h2{
+    font-size: 40px;
+  
+}
+.red-highlight{
+    color: #EB4F8E;
+}
+.half-width{
+    width: 36%;
+    margin: 5%;
+    padding: 2%;
+    float: left;
+}
+.half-width img{
+    width: 70%;
+}
+p{
+    color: dimgray;
+    padding-bottom: 30px;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: #EB4F8E;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 600px;
+    padding-bottom: 50px;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.center-allign{
+    text-align: center;
+}
+.projects{
+    margin-left: 5%;
+    
+    width: 28%;
+   
+    float: left;
+}
+.projects img{
+    width: 100%;
+}
+.review{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    
+}
+.contact{
+    text-decoration: none;
+    color: white;
+    background-color: #EB4F8F;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 10px 25px 15px 25px;
+    border-radius: 7px;
+}
